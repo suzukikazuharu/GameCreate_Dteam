@@ -13,7 +13,7 @@ namespace basecross{
 
 		auto trans = GetComponent<Transform>();
 		trans->SetPosition(Vec3(0, 0, 0));
-		trans->SetScale(Vec3(1, 1, 1));
+		trans->SetScale(Vec3(10, 10, 10));
 	}
 
 }
